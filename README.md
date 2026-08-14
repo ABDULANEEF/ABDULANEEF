@@ -174,31 +174,31 @@ I enjoy:
 <p align="center">
 
 <a href="https://abdulaneef.netlify.app/">
-<img src="./Portfolio.hu_full_logo.png" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/googlechrome.svg" width="55" height="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/abdaneef">
-<img src="./Instagram-Logo.png" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/instagram.svg" width="55" height="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/abdul-aneef-865a952b9">
-<img src="./linkedin.jpg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/linkedin.svg" width="55" height="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/gmklgz9y0x/">
-<img src="./LeetCode_logo_black.png" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/leetcode.svg" width="55" height="55"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:abdulaneef50@gmail.com">
-<img src="./google_mail_gmail_logo_icon_159346.webp" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/gmail.svg" width="55" height="55"/>
 </a>
 
 </p>
