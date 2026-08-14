@@ -197,13 +197,21 @@ I enjoy:
 
 ## 📄 Resume
 
-<p align="center">
+<div align="center">
 
-<a href="https://drive.google.com/file/d/1mgy6SI5A4Spq1UgWVZoC3hRJ58sGfNKf/view?usp=drive_link">
-<img src="https://img.shields.io/badge/📄%20Resume-View%20My%20Resume-4285F4?style=for-the-badge" />
+<a href="https://drive.google.com/file/d/1XUElRly3o6TAM9JnPNQFqCJ1XYx8IknA/view?usp=drive_link">
+<img src="https://img.shields.io/badge/📄%20Resume-Open%20Resume-4285F4?style=for-the-badge" />
 </a>
 
-</p>
+  
+
+<a href="https://drive.google.com/uc?export=download&id=1XUElRly3o6TAM9JnPNQFqCJ1XYx8IknA">
+<img src="https://img.shields.io/badge/⬇️%20Resume-Download%20Resume-34A853?style=for-the-badge" />
+</a>
+
+</div>
+
+
 
 ## ⚡ A Little About Me
 
