@@ -76,32 +76,74 @@ I'm continuously improving my skills in:
 
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
+
+### 💻 Programming & Web Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,react,nodejs,mongodb,mysql,firebase,figma,vscode,git,github&perline=8" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </p>
+
+---
+
+### 🤖 AI & Data Science
 
 <p align="center">
 
-<strong>AI & Data Science</strong><br><br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </p>
+
+---
+
+### 📊 Data & Analytics
 
 <p align="center">
 
-<strong>Data & Analytics</strong><br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" />
-
-   Pandas   •   NumPy   •   Matplotlib   •   Seaborn   •   Power BI
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </p>
 
+---
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</p>
 ## 🎯 What I'm Looking For
 
 👯 **Collaboration**
@@ -126,11 +168,48 @@ I enjoy:
 * 📚 Learning new technologies
 
 ---
-🌐 Find Me Online
+
+## 🌐 Find Me Online
 
 <p align="center">
 
-<a href="https://abdulaneef.netlify.app/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-ABDULANEEF-000000?style=for-the-badge" /> </a> &nbsp; <a href="https://linkedin.com/in/abdul-aneef-865a952b9"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://leetcode.com/u/gmklgz9y0x/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> &nbsp; <a href="mailto:abdulaneef50@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://abdulaneef.netlify.app/">
+<img src="./Portfolio.hu_full_logo.png" width="100" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/abdaneef">
+<img src="./Instagram-Logo.png" width="50" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/abdul-aneef-865a952b9">
+<img src="./linkedin.jpg" width="50" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/gmklgz9y0x/">
+<img src="./LeetCode_logo_black.png" width="50" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:abdulaneef50@gmail.com">
+<img src="./google_mail_gmail_logo_icon_159346.webp" width="50" height="50"/>
+</a>
+
+</p>
+
+## 📄 Resume
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1mgy6SI5A4Spq1UgWVZoC3hRJ58sGfNKf/view?usp=drive_link">
+<img src="https://img.shields.io/badge/📄%20Resume-View%20My%20Resume-4285F4?style=for-the-badge" />
+</a>
 
 </p>
 
