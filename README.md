@@ -1,34 +1,145 @@
-<h1 align="center">Hi 👋, I'm ABDUL ANEEF</h1>
-<h3 align="center">A passionate data science enthusiast and full stack developer</h3>
+# 👋 Hi, I'm Abdul Aneef
 
-- 🔭 I’m currently working on **AI Resume Analyzer — an intelligent application for analyzing resumes and extracting relevant informatio**
+### AI & Data Science Student | Builder | Problem Solver
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Full-Stack Development.**
+> **I don't just learn technologies — I try to turn them into something useful.**
 
-- 👯 I’m looking to collaborate on **AI, Data Science, and Full-Stack projects where I can learn, contribute, and build practical solutions**
+I'm an **Artificial Intelligence & Data Science student** who enjoys building applications that connect **AI, automation, data, and real-world problems**.
 
-- 🤝 I’m looking for help with **Machine Learning, Data Science, and scalable AI applications.**
+From a voice assistant that can interact with a computer, to systems designed for women's safety and local freelancing, my projects are driven by one simple idea:
 
-- 👨‍💻 All of my projects are available at [https://abdulaneef.netlify.app/](https://abdulaneef.netlify.app/)
+**💡 Learn something → Build something → Make it useful.**
 
-- 💬 Ask me about **Python, SQL, Data Analysis, AI, and my projects.**
+---
 
-- 📫 How to reach me **abdulaneef50@gmail.com**
+## 🚀 What I'm Building
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mgy6SI5A4Spq1UgWVZoC3hRJ58sGfNKf/view?usp=drive_link](https://drive.google.com/file/d/1mgy6SI5A4Spq1UgWVZoC3hRJ58sGfNKf/view?usp=drive_link)
+🔭 **Currently working on — AI Resume Analyzer**
 
-- ⚡ Fun fact **I turn random ideas into projects... and sometimes the projects actually work. 😄**
+An intelligent resume analysis platform designed to make the resume screening process smarter and more efficient by extracting information from resumes and helping analyze candidate profiles.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/abdul-aneef-865a952b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/abdul-aneef-865a952b9" height="30" width="40" /></a>
-<a href="https://instagram.com/abdaneef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdaneef" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gmklgz9y0x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gmklgz9y0x/" height="30" width="40" /></a>
+---
+
+## 🧠 Things I've Built
+
+### 🤖 Jarvis — Personal Voice Assistant
+
+A Python-based personal voice assistant designed to interact with the computer using **voice commands**.
+
+It can assist with tasks such as file access, system operations, speech interaction, and other everyday actions.
+
+**Focus:** Voice AI • Automation • Python • Speech Recognition
+
+---
+
+### 💼 Freelancer for India
+
+A **skill-based freelancing platform concept** designed with local users in mind.
+
+The goal is to connect people with opportunities based on their **skills rather than just traditional qualifications**.
+
+**Focus:** Full Stack • AI • Platform Development
+
+---
+
+### 🛡️ AI Women Safety System
+
+A safety-focused application designed to provide quick assistance during emergency situations.
+
+The system can capture emergency information and help communicate **audio/video evidence and location information** to trusted contacts.
+
+**Focus:** AI • Automation • Emergency Systems • Location Services
+
+---
+
+### 📄 AI Resume Analyzer — Current Project
+
+My current project explores how AI can help make resume analysis faster and more intelligent.
+
+The idea is to transform an ordinary resume into **structured, meaningful information** that can assist in evaluating candidates.
+
+**Focus:** AI • NLP • Resume Parsing • Data Processing
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously improving my skills in:
+
+* 🐍 Python
+* 📊 Data Science & Data Analysis
+* 🤖 Machine Learning
+* 👁️ Computer Vision
+* 🌐 Full-Stack Development
+* 🗄️ SQL & Databases
+* 🧠 Problem Solving & DSA
+
+---
+
+🛠️ Technical Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,react,nodejs,mongodb,mysql,firebase,figma,vscode,git,github&perline=8" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulaneef&show_icons=true&locale=en&layout=compact" alt="abdulaneef" /></p>
+<strong>AI & Data Science</strong><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulaneef&show_icons=true&locale=en" alt="abdulaneef" /></p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" />
+
+</p>
+
+<p align="center">
+
+<strong>Data & Analytics</strong><br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" />
+
+   Pandas   •   NumPy   •   Matplotlib   •   Seaborn   •   Power BI
+
+</p>
+
+## 🎯 What I'm Looking For
+
+👯 **Collaboration**
+
+I'm interested in collaborating on **AI, Data Science, Full-Stack, and Computer Vision projects** where I can contribute while learning from others.
+
+🤝 **Learning**
+
+I'm especially interested in improving my knowledge of **Machine Learning, Data Science, NLP, and scalable AI applications**.
+
+---
+
+## 📊 Beyond Code
+
+I enjoy:
+
+* 🧩 Solving programming and logical problems
+* 🤖 Experimenting with AI ideas
+* 📈 Exploring data and finding patterns
+* 💻 Building projects from scratch
+* 🚀 Participating in hackathons
+* 📚 Learning new technologies
+
+---
+🌐 Find Me Online
+
+<p align="center">
+
+<a href="https://abdulaneef.netlify.app/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-ABDULANEEF-000000?style=for-the-badge" /> </a> &nbsp; <a href="https://linkedin.com/in/abdul-aneef-865a952b9"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://leetcode.com/u/gmklgz9y0x/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> &nbsp; <a href="mailto:abdulaneef50@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+</p>
+
+## ⚡ A Little About Me
+
+I believe the best way to learn technology is to **build with it**.
+
+Some ideas start as a simple thought, become a small experiment, and somehow end up as an entire project. 😄
+
+**Currently learning. Constantly building. Always curious.**
+
+### ⭐ Thanks for visiting my profile!
