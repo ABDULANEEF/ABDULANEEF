@@ -173,32 +173,24 @@ I enjoy:
 
 <p align="center">
 
-<a href="https://abdulaneef.netlify.app/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/googlechrome.svg" width="55" height="55"/>
+<a href="https://abdulaneef.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/abdaneef">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/instagram.svg" width="55" height="55"/>
+<a href="https://www.instagram.com/abdaneef" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/abdul-aneef-865a952b9">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/linkedin.svg" width="55" height="55"/>
+<a href="https://linkedin.com/in/abdul-aneef-865a952b9" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/gmklgz9y0x/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/leetcode.svg" width="55" height="55"/>
+<a href="https://leetcode.com/u/gmklgz9y0x/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:abdulaneef50@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/gmail.svg" width="55" height="55"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
